@@ -1,5 +1,7 @@
 public class Hello
 {
+   //-- For command line git tutorial
+   //-- GitHub modification
    public static void main(String[] args)throws Exception{
    	System.out.println("Hello World");
    	System.out.println("Tell Your World");
